@@ -1,0 +1,11 @@
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\obj\Debug\Calculator.formCalculator.resources
+C:\Documents\Semester 3\PL\PRAKTIKUM 8\Calculator\Calculator\Calculator\obj\Debug\Calculator.formHasilPerhitungan.resources
